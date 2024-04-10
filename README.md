@@ -1,6 +1,8 @@
 # ShortMagic
 
-Installer files for ShortMagic for Windows and Mac. Download the latest version from releases: https://github.com/vincaslt/shortmagic-releases/releases
+Installer files for ShortMagic for Windows and Mac.
+
+Download the latest version from releases: https://github.com/vincaslt/shortmagic-releases/releases
 
 ShortMagic is a tool that helps to make shortform videos more engaging. Currently it's completely free while in BETA and has the following features:
 - Automatic and fast transcription of the original video using AI on local PC.
@@ -9,11 +11,11 @@ ShortMagic is a tool that helps to make shortform videos more engaging. Currentl
 
 # Installation instructions
 
-*Windows users* can simply download the respective Setup file with `.exe` extension, e.g. `ShortMagic-0.1.0-setup.exe`. The installer will download and install necessary files automatically.
+__Windows users__ can simply download the respective Setup file with `.exe` extension, e.g. `ShortMagic-0.1.0-setup.exe`. The installer will download and install necessary files automatically.
 
-*Mac OS users` should download the file with the `.dmg` extension, e.g. `ShortMagic-0.1.0.dmg`. Open it and follow any on-screen instructions. It should work with both Apple Sillicon and Intel processors.
+__Mac OS users__ should download the file with the `.dmg` extension, e.g. `ShortMagic-0.1.0.dmg`. Open it and follow any on-screen instructions. It should work with both Apple Sillicon and Intel processors.
 
-*If your mac throws any security warnings, here's what you should do:*
+__If your mac throws any security warnings, here's what you should do:__
 - Go to `Settings -> Privacy & Security`
 - Scroll down to Security section and press *Allow* on any warnings regarding ShortMagic/Whisper/FFprobe/FFmpeg apps. 
 
