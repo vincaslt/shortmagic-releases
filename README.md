@@ -32,3 +32,7 @@ Recommended video length is under 5 minutes. Although it may work with longer vi
 I'm building the app one problem at a time. The first problem I'm tackling is captions - because it should be possible to create engaging captions in minutes without spending hours cutting text word-by-word or hiring an editor.
 
 In the future, the goal is to create a one-stop-shop for creating engaging shortform content, that handles editing, effects and repurposing with as much automation as possible.
+
+# Contact
+
+If you have any problems, questions or suggestions feel free contact me via email: vincas.stonys@gmail.com or on Twitter [@VincasStonys](https://twitter.com/VincasStonys)
