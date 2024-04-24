@@ -5,8 +5,14 @@ Installer files for ShortMagic for Windows and Mac.
 Download the latest version from releases: https://github.com/vincaslt/shortmagic-releases/releases
 
 ShortMagic is a tool that helps to make shortform videos more engaging. Currently it's completely free while in BETA and has the following features:
-- Automatic and fast transcription of the original video using AI on local PC.
-- Encoding karaoke-style captions to your original video for use on social media.
+
+- 🎙️ Automatic, fast and accurate transcriptions using AI on your local PC, easy to edit.
+- 💅 In-built templates you can use as-is or customize and save to create your own.
+- 🎨 Lots of customization options including custom fonts, colors, animations, and styles.
+- 🎥 Export videos with captions encoded to your original video for use on social media.
+
+  
+![Animation](https://github.com/vincaslt/shortmagic-releases/assets/944727/1414cbed-3f98-44b3-a830-970834472c91)
 
 
 # Installation instructions
